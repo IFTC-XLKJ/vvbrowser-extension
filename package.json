@@ -1,0 +1,28 @@
+{
+  "name": "extension",
+  "version": "0.0.1",
+  "description": "VV浏览器扩展开发包",
+  "keywords": [
+    "IFTC",
+    "VVBrowser",
+    "Extension"
+  ],
+  "homepage": "https://github.com/IFTC-XLKJ/vvbrowser-extension#readme",
+  "bugs": {
+    "url": "https://github.com/IFTC-XLKJ/vvbrowser-extension/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IFTC-XLKJ/vvbrowser-extension.git"
+  },
+  "license": "MIT",
+  "author": "IFTC",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "esbuild": "^0.28.0"
+  }
+}
