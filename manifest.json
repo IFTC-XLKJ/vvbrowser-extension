@@ -1,0 +1,13 @@
+{
+  "name": "示例扩展",
+  "main": "{main}",
+  "icon": "icon.png",
+  "permissions": [
+    "INTERFACE",
+    "FILE",
+    "EXTENSION",
+    "COOKIE",
+    "DOCUMENT",
+    "ERUDA"
+  ]
+}

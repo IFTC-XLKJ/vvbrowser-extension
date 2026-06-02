@@ -1,0 +1,13 @@
+{
+    "name": "示例扩展",
+    "main": "index.min.js",
+    "icon": "icon.png",
+    "permissions": [
+        "INTERFACE",
+        "FILE",
+        "EXTENSION",
+        "COOKIE",
+        "DOCUMENT",
+        "ERUDA"
+    ]
+}
