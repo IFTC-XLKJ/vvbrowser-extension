@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    // ... 其他编译选项
+  },
+  "include": [
+    "./types.d.ts"
+  ]
+}
